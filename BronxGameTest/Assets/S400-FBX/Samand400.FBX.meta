@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 425499b74a401f440b7e801e4f3cc50a
+timeCreated: 1475244134
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body1
+    100004: Cam
+    100006: Glass
+    100008: GuidLight
+    100010: GuidLight1
+    100012: Hood
+    100014: Light
+    100016: Light1
+    100018: Light2
+    100020: Light3
+    100022: Logo
+    100024: Plaque
+    100026: Plaque1
+    100028: Plastik
+    100030: //RootNode
+    100032: Samand_Root_GRP
+    100034: Steel
+    100036: Tire
+    100038: Tire1
+    100040: Tire2
+    100042: Tire3
+    100044: UnderCar
+    400000: Body
+    400002: Body1
+    400004: Cam
+    400006: Glass
+    400008: GuidLight
+    400010: GuidLight1
+    400012: Hood
+    400014: Light
+    400016: Light1
+    400018: Light2
+    400020: Light3
+    400022: Logo
+    400024: Plaque
+    400026: Plaque1
+    400028: Plastik
+    400030: //RootNode
+    400032: Samand_Root_GRP
+    400034: Steel
+    400036: Tire
+    400038: Tire1
+    400040: Tire2
+    400042: Tire3
+    400044: UnderCar
+    2300000: Body
+    2300002: Body1
+    2300004: Glass
+    2300006: GuidLight
+    2300008: GuidLight1
+    2300010: Hood
+    2300012: Light
+    2300014: Light1
+    2300016: Light2
+    2300018: Light3
+    2300020: Logo
+    2300022: Plaque
+    2300024: Plaque1
+    2300026: Plastik
+    2300028: Steel
+    2300030: Tire
+    2300032: Tire1
+    2300034: Tire2
+    2300036: Tire3
+    2300038: UnderCar
+    3300000: Body
+    3300002: Body1
+    3300004: Glass
+    3300006: GuidLight
+    3300008: GuidLight1
+    3300010: Hood
+    3300012: Light
+    3300014: Light1
+    3300016: Light2
+    3300018: Light3
+    3300020: Logo
+    3300022: Plaque
+    3300024: Plaque1
+    3300026: Plastik
+    3300028: Steel
+    3300030: Tire
+    3300032: Tire1
+    3300034: Tire2
+    3300036: Tire3
+    3300038: UnderCar
+    4300000: Plaque
+    4300002: Body1
+    4300004: Plaque1
+    4300006: Steel
+    4300008: GuidLight1
+    4300010: GuidLight
+    4300012: UnderCar
+    4300014: Tire
+    4300016: Tire1
+    4300018: Tire3
+    4300020: Tire2
+    4300022: Glass
+    4300024: Logo
+    4300026: Hood
+    4300028: Body
+    4300030: Light
+    4300032: Plastik
+    4300034: Light1
+    4300036: Light2
+    4300038: Light3
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
